@@ -1,0 +1,15 @@
+C:\Users\denys\source\repos\CBS7\bin\Debug\net6.0\CBS7.exe
+C:\Users\denys\source\repos\CBS7\bin\Debug\net6.0\CBS7.deps.json
+C:\Users\denys\source\repos\CBS7\bin\Debug\net6.0\CBS7.runtimeconfig.json
+C:\Users\denys\source\repos\CBS7\bin\Debug\net6.0\CBS7.dll
+C:\Users\denys\source\repos\CBS7\bin\Debug\net6.0\CBS7.pdb
+C:\Users\denys\source\repos\CBS7\obj\Debug\net6.0\CBS7.csproj.AssemblyReference.cache
+C:\Users\denys\source\repos\CBS7\obj\Debug\net6.0\CBS7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denys\source\repos\CBS7\obj\Debug\net6.0\CBS7.AssemblyInfoInputs.cache
+C:\Users\denys\source\repos\CBS7\obj\Debug\net6.0\CBS7.AssemblyInfo.cs
+C:\Users\denys\source\repos\CBS7\obj\Debug\net6.0\CBS7.csproj.CoreCompileInputs.cache
+C:\Users\denys\source\repos\CBS7\obj\Debug\net6.0\CBS7.dll
+C:\Users\denys\source\repos\CBS7\obj\Debug\net6.0\refint\CBS7.dll
+C:\Users\denys\source\repos\CBS7\obj\Debug\net6.0\CBS7.pdb
+C:\Users\denys\source\repos\CBS7\obj\Debug\net6.0\CBS7.genruntimeconfig.cache
+C:\Users\denys\source\repos\CBS7\obj\Debug\net6.0\ref\CBS7.dll
